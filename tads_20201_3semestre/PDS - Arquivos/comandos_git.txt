@@ -1,0 +1,17 @@
+git init --> Instalar a ligação da pasta com o git
+
+git remote add origin **link** --> Ligar a pasta ao repositorio
+
+git status --> diferença entre repositorio e pasta local
+
+git add **nome_do_arquivo.ext** --> adicionar item ao repositorio
+
+git config --global user.name "Luiz Eduardo Barros Coelho" --> Identificação
+git config --global user.email "eduardo.barros@escolar.ifrn.edu.br" --> Identificação
+
+git commit -m "comentario" --> comentar o arquivo
+
+git push origin **branch** --> Colocar arquivo da pasta local no repositorio
+
+git pull origin **branch** --> Puxar do repositorio para a pasta local
+
