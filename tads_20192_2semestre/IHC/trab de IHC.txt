@@ -1,0 +1,42 @@
+1 - 
+2 -  identificar os fatores que influenciam a adoção do IB no Brasil entre não usuários
+de IB.
+3 -  propor e testar um modelo que permita
+identificar os fatores que influenciam a adoção do IB no Brasil entre não usuários
+de IB
+4 - Foram entrevistadas para este estudo apenas pessoas que possuíam pelo
+menos uma conta corrente bancária e nunca haviam utilizado o Internet
+Banking até o momento da entrevista. Os respondentes foram selecionados
+por conveniência e abordados nas proximidades de agências bancárias em
+diversos pontos de uma grande capital brasileira. Os dados foram coletados
+por meio de levantamento, utilizando um questionário estruturado e as
+entrevistas foram feitas de forma pessoal e individual.
+5 - Estudo empírico, Determinantes, Internet Banking, Determinantes, Não usuários
+6 - "(...) A vantagem de se investigar aqueles que já adotaram a nova tecnologia é
+poder determinar os fatores que determinaram o comportamento em si e não
+apenas a intenção de comportamento. Entretanto a desvantagem é que a as
+percepções deste grupo de indivíduos revelam uma decisão tomada no passado,
+percepções estas que podem estar mascaradas pela passagem do tempo e
+pela experiência adquirida na utilização da tecnologia.
+A vantagem de se investigar usuários potenciais é que suas percepções não
+são influenciadas nem pelo tempo nem pela experiência. Entretanto, segundo
+Fishbein, Hennessy, Yzer e Douglas (2003), a falta de habilidades ou restrições
+ambientais podem impedir que a intenção se transforme em comportamento,
+ou seja, a intenção em determinadas condições pode não prever
+adequadamente um comportamento.
+Entretanto, a despeito da sua desvantagem, do ponto de vista prático,
+investigar usuários potenciais de uma nova tecnologia é mais interessante,
+uma vez que é a este grupo que se pretende influenciar. Portanto, seguindo
+diversos estudos sobre a adoção do IB (por exemplo, Lee et al., 2005; Shih
+& Fang, 2004; Suh & Han, 2002, 2003; Tan & Teo, 2000), a variável
+dependente do modelo é a intenção de usar o Internet Banking no futuro. (...)"; página 20 e 21.
+7 - pessoas que possuíam pelo menos uma conta corrente bancária e nunca tinham utilizado Internet Banking até o momento da entrevista.
+9 - "(...) Uma das maiores surpresas entre os resultados é o sinal trocado do constructo
+testagem. Teoricamente, quanto maior a possibilidade de se experimentar uma
+nova tecnologia, maior a probabilidade de que ela venha a ser adotada. Entretanto
+os resultados mostram exatamente o contrário, isto é, quanto maiores os esforços
+dos bancos em proporcionar acesso dos seus correntistas ao IB, menor intenção
+eles demonstram em adotá-lo. (...)"
+10 - Não, pois, como é mesmo dito no estudo "(...) A vantagem de se investigar aqueles que já adotaram a nova tecnologia é
+poder determinar os fatores que determinaram o comportamento em si e não
+apenas a intenção de comportamento (...)"
